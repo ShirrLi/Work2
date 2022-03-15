@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647159214 source:c:\users\admin\desktop\cb\cache\sum_better\main.cpp
+	<iostream>
+	<math.h>
+	<windows.h>
+
